@@ -4,4 +4,4 @@ I like to code, I have some experience of HTML, CSS, Javascript,PHP and SQL. Usi
 
 I use Linux, Debian to be exact, Windows For Workgroups...Linux for Everyone and Everything Else!!!
 
-By trade I am an Electrician, if I had it all over again I would of went to College and studied "Microprocessing" but that was soooo many years ago.
+By trade I am an Electrician, if I had it all over again I would go to College and studied "Microprocessing" but that was soooo many years ago.
